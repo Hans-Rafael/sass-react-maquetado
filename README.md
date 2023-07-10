@@ -1,1 +1,1 @@
-# sass-react-maquetado home Page avatar.com
+# sass-react-maquetado home page avatar.com
