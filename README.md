@@ -1,7 +1,7 @@
-# sass-react-maquetado home page avatar.com
+# maquetado de la home page Avatar.com
 ![Imagen del proyecto](https://github.com/eduardofierropro/avatar-the-way-of-water/blob/main/public/assets/home1.png)
 
-# Copycat: Avatar The way of water (Proceso)
+# Copycat: Avatar (Proceso)
 
 Este es el copycat de la web de Avatar The way of water en Youtube.
 
@@ -17,13 +17,13 @@ Este es el copycat de la web de Avatar The way of water en Youtube.
 
 > Aclaraciones:
 >
+> Ha sido programado con fines de practica
+>
 > No ha sido probado para tener soporte crossbrowsing
 >
 > El diseño de la web original puede variar
->
-> Ha sido programado con fines de entrenamiento
->
-> No lo uses en tu propio portfolio sino como referencia o práctica
+
+
 
 ## 👨🏻‍🏫 by Hans Garcia
 
