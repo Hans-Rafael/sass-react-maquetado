@@ -3,8 +3,7 @@
 
 # Copycat: Avatar (Proceso)
 
-Este es el copycat de la web de Avatar The way of water en Youtube.
-
+Este es el copycat de la web de Avatar oficial
 [![Original website](https://img.shields.io/static/v1?label=&message=Original%20Site&color=4d94b3&style=for-the-badge)](https://www.avatar.com)
 [![Github Repository](https://img.shields.io/static/v1?label=&message=Github%20Repository&color=000000&style=for-the-badge&logo=github&logoColor=white)](https://github.com/hans-rafael)
 
