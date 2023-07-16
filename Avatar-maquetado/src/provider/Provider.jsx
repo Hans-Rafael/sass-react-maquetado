@@ -1,8 +1,7 @@
-import React from "react";
-import { createContext } from "react";
 import { v4 as uuidv4 } from "uuid";
+import { createContext } from "react";
 
-const dataBase = {
+const bbdd = {
   header: {
     menu: [
       { id: uuidv4(), title: "Home", href: "#" },
@@ -15,7 +14,7 @@ const dataBase = {
       { id: uuidv4(), title: "Partnerships", href: "#" },
       { id: uuidv4(), title: "Our Team", href: "#" },
     ],
-    redesSociales: [
+    rrss: [
       { id: uuidv4(), title: "Facebook", href: "#", icono: "facebook" },
       { id: uuidv4(), title: "Twitter", href: "#", icono: "twitter" },
       { id: uuidv4(), title: "Instagram", href: "#", icono: "instagram" },
@@ -34,9 +33,11 @@ const dataBase = {
     ],
   },
 };
+
 export const GlobalContext = createContext();
+
 export const Provider = ({ children }) => {
   return (
-    <GlobalContext.Provider value={dataBase}>{children}</GlobalContext.Provider>
+    <GlobalContext.Provider value={bbdd}>{children}</GlobalContext.Provider>
   );
 };
