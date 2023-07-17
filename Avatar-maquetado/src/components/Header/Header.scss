@@ -17,10 +17,7 @@
   &-h1 {
     max-width: 10.35em;
   }
-  &-logo {
-  }
-  &-img {
-  }
+ 
 
   &-nav {
     //background-color: red;
@@ -42,8 +39,7 @@
     align-items: center;
     gap: 1em;
   }
-  &-li {
-  }
+
   &-a {
     position: relative;
     &.isActive {
@@ -80,8 +76,7 @@
         display: none;
     }
   }
-  &-li {
-  }
+ 
   &-rs {
     padding: 0.4em;
     border-radius: 50%;
@@ -102,6 +97,5 @@
     }
 
   }
-  &-svg {
-  }
+ 
 }

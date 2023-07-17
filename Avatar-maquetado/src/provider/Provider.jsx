@@ -32,6 +32,9 @@ const bbdd = {
       { id: uuidv4(), title: "Buy It Now", href: "#" },
     ],
   },
+  cita:{
+    h2:'"The way of water has no beginning and no end."',
+  }
 };
 
 export const GlobalContext = createContext();
